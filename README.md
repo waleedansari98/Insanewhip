@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Insanewhip
-- 👀 I’m interested in learning automation, configuration, and the Cloud
-- 🌱 I’m currently learning Terraform through omline resources
+- 👀 I’m interested in learning automation, configuration, and the Azure Cloud
+- 🌱 I’m currently learning Terraform through online resources
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
