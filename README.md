@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Insanewhip
-- 👀 I’m interested in learning automation, configuration, and the Azure Cloud
-- 🌱 I’m currently learning Terraform through online resources
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working as a Cloud Engineer @ Avanade
+- 👀 I’m interested in learning the Azure Cloud, automation, and coding
+
 
 <!---
 Insanewhip/Insanewhip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
