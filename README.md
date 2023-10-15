@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Insanewhip
 - 🌱 I’m currently working as a Cloud Engineer @ Avanade
-- 👀 I’m interested in learning the Azure Cloud, automation, and coding
+- 👀 I’m interested in learning more about the Azure Cloud, automation, and coding
 
 
 <!---
